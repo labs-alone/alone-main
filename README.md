@@ -1,7 +1,7 @@
 # VAE - An Advanced AI Agent Framework
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1199317611058577408/1334752994079805503/Add_a_heading.png?ex=679efe98&is=679dad18&hm=5565f3ed1b6185dd1751b83cd61e641151ebf208e43e396c337b0d2dd1990db6&=&format=webp&quality=lossless&width=1439&height=479" alt="Alone Labs Banner" width="100%" />
+  <img src="https://github.com/labs-alone/.github/blob/main/images/Add%20a%20heading.png?raw=true" alt="Alone Labs Banner" width="100%" />
 </div>
 
 ## Table of Contents
